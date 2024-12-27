@@ -1,1 +1,1 @@
-console.log("this is second project")
+console.log("this is second project 1.1")
